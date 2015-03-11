@@ -1,0 +1,497 @@
+files/var/hu00147A_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu005EB9_23andMe: Zip archive data (empty)
+files/var/hu011C57_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu016B28_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu024B5D_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu025CEA_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu0269B5_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu032C04_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu034DB1_23andMe: ASCII text, with CRLF line terminators
+files/var/hu0369A1_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu040C0A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu0471B4_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu0486D6_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu0515BA_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu051AAE_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu05F442_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu066C78_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu0684DB_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu08DAC6_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu09D626_23andMe: ASCII text, with CRLF line terminators
+files/var/hu0B13B7_23andMe: gzip compressed data, extra field
+files/var/hu0C0779_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu0C1563_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu0C8573_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu0CF2EE_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu0D2DBE_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu0DEE68_23andMe: ASCII text, with CRLF line terminators
+files/var/hu0E64A1_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu0E7AAF_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu0FDE6C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu11603C_23andMe: ASCII text, with CRLF line terminators
+files/var/hu117D1E_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu1187FF_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu11DF5B_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu1287DA_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu14262A_23andMe: ASCII text, with CRLF line terminators
+files/var/hu14ECAE_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu155D20_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu15BFF8_23andMe: ASCII text, with CRLF line terminators
+files/var/hu174334_23andMe: ASCII text, with CRLF line terminators
+files/var/hu17DFDB_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu19C09F_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu1A4E62_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu1A57E4_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu1A7894_23andMe: ASCII text, with CRLF line terminators
+files/var/hu1AF4ED_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu1B23C3_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu1BD549_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu1BDBA5_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu1C542B_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu1D6DF3_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu1F73AB_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu20FDD8_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu2167CD_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu21731A_23andMe: ASCII text, with CRLF line terminators
+files/var/hu2331A5_23andMe: ASCII text, with CRLF line terminators
+files/var/hu23502F_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu241DEA_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu24C863_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu250634_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu25E1EE_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu25E94B_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu263CFD_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu271200_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu2741CA_23andMe: ASCII text, with CRLF line terminators
+files/var/hu275E09_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu27FD1F_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu28391C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu28ABE8_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu28DA07_23andMe: PDF document, version 1.3
+files/var/hu28F39C_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu297562_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu2A4D22_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu2B76CC_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu2B8562_23andMe: ASCII text, with CRLF line terminators
+files/var/hu2BC187_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu2C99A8_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu2CAD51_23andMe: gzip compressed data, was "hu9B93D0_20120313_23andMe.txt", from Unix, last modified: Tue Mar 13 15:09:40 2012
+files/var/hu2D53F2_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu2D6140_23andMe: PDF document, version 1.4
+files/var/hu2E413D_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu2FEC01_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu3073E3_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu30888B_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu30F119_23andMe: ASCII text, with CRLF line terminators
+files/var/hu3116C3_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu313730_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu319B11_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu340C7A_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu345185_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu3458D8_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu34BB8E_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu34D5B9_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu352868_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu35389E_23andMe: ASCII text, with CRLF line terminators
+files/var/hu3549A7_23andMe: ASCII text, with CRLF line terminators
+files/var/hu363FD6_23andMe: ASCII text, with CRLF line terminators
+files/var/hu3696DA_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu379AE4_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu394092_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu3A1B15_23andMe: ASCII text, with CRLF line terminators
+files/var/hu3A8D13_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu3B89BD_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu3C0611_23andMe: ASCII text, with CRLF line terminators
+files/var/hu3C5109_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu3C86DB_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu3CAB43_23andMe: gzip compressed data, was "23andme-exome-6-23-2012-huD7960A.vcf", from Unix, last modified: Sat Jun 23 01:53:29 2012
+files/var/hu3CEAE6_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu3CED2C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu3D355A_23andMe: ASCII text, with CRLF line terminators
+files/var/hu3DA7DA_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu3DDADF_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu3E9D3B_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu3EEE3A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu3F37F2_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu3F8570_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu3F864B_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu4040B8_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu409F2D_23andMe: ASCII text, with CRLF line terminators
+files/var/hu40CF0F_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu41ED75_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu42681A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu428CA7_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu42B208_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu42E61E_23andMe: ASCII text, with CRLF line terminators
+files/var/hu43294F_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu43860C_23andMe: ASCII text, with CRLF line terminators
+files/var/hu443DE9_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu448C4B_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu44DCFF_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu450107_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu459AD0_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu45BAB6_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu46D362_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu47A9D1_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu47E28A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu4871A5_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu48C4EB_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu4963A1_23andMe: ASCII text, with CRLF line terminators
+files/var/hu49F623_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu4AEB32_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu4B07B3_23andMe: ASCII text, with CRLF line terminators
+files/var/hu4B0812_23andMe: Microsoft Word 2007+
+files/var/hu4B6D1D_23andMe: ASCII text, with CRLF line terminators
+files/var/hu4BA913_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu4BE378_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu4BE6F2_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu4C04A0_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu4C20BC_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu4C3094_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu4CA5B9_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu4D2239_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu4D906B_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu4DE348_23andMe: ASCII text, with CRLF line terminators
+files/var/hu4E03BC_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu4EBDBA_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu4F8813_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu4FA99E_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu500536_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu502084_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu524B5B_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu52B7E5_23andMe: ASCII text, with CRLF line terminators
+files/var/hu52E130_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu52F345_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu53075C_23andMe: ASCII text, with CRLF line terminators
+files/var/hu53A64C_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu54E9E5_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu54EA88_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu555913_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu566AA7_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu569A8F_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu56B3B6_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu577152_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu57C8BE_23andMe: ASCII text, with CRLF line terminators
+files/var/hu580BA5_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu589685_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu589D0B_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu59141C_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu594129_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu599905_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu5A0DFE_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu5A1D5F_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu5A2074_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu5B2595_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu5CABA7_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu5D9DE3_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu5DD02A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu5E55F5_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu5F3659_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu5FB1B9_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu5FBC05_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu5FCE15_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu5FF6B0_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu604D39_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu60AB7C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu618103_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu619399_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu619F51_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu620523_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu627574_23andMe: ASCII text, with CRLF line terminators
+files/var/hu633787_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu635045_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu63A000_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu63DA55_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu64AE17_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu65286B_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu654B61_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu661AD0_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu686728_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu68929D_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu68B66A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu691E67_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu6ABACE_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu6AD82E_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu6D50BE_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu6DA401_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu6DC172_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu6E26D3_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu6E37AB_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu6E4515_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu6E8157_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu6ED94A_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu7123C1_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu718EB2_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu71ED76_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu723D4E_23andMe: ASCII text, with CRLF line terminators
+files/var/hu72C17A_23andMe: ASCII text, with CRLF line terminators
+files/var/hu72E8CF_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu734BD6_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu7379BC_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu741459_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu745024_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu74B85B_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu751AED_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu75685D_23andMe: gzip compressed data, extra field
+files/var/hu75BE2C_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu76CAA5_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu76EFBD_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu775356_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu77AB33_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu77CC58_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu780C5B_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu781EE2_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu782033_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu786B4C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu787E67_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu7947B5_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu79AB64_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu79C4A7_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu7A4AD1_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu7AB6CC_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu7AC640_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu7B4393_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu7B594C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu7C3A81_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu7D85C3_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu7F99E2_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu7FDBE7_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu80855C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu80AD0F_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu816A0B_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu81BCA8_23andMe: ASCII text, with CRLF line terminators
+files/var/hu8212B3_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu82436A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu82E689_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu836D0A_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu83E9B9_23andMe: ASCII text, with CRLF line terminators
+files/var/hu840B0B_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu84787F_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu84AC8B_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu84B706_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu85ADFB_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu85E6EC_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu8602F1_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu862CC7_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu868880_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu87839A_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu87A318_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu88998A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu88A079_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu88A920_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu89910D_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu8A5FBF_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu8ABBF8_23andMe: ASCII text, with CRLF line terminators
+files/var/hu8B3865_23andMe: ASCII text, with CRLF line terminators
+files/var/hu8B4E43_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu8D1A62_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu8D40D6_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu8D6607_23andMe: ASCII text, with CRLF line terminators
+files/var/hu8D99F6_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu8E82F1_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu8ECBE8_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu8F918A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu8FE5F9_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu903DE8_23andMe: ISO-8859 text, with CR line terminators
+files/var/hu904B18_23andMe: ASCII text, with CRLF line terminators
+files/var/hu9061AE_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu90B053_23andMe: ASCII text, with CRLF line terminators
+files/var/hu9122D5_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu919BBA_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu91BD69_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu92F252_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu92FD55_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu939B7C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu9536EE_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu96713F_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu9689C4_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu96D41E_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu974CFF_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu97762A_23andMe: ASCII text, with CRLF line terminators
+files/var/hu97DB4A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu989B69_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu993257_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu9B93D0_23andMe: HTML document, ASCII text, with no line terminators
+files/var/hu9C27F6_23andMe: ASCII text, with CRLF line terminators
+files/var/hu9D1BE2_23andMe: ASCII text, with CRLF line terminators
+files/var/hu9D78A5_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/hu9D7C95_23andMe: ASCII text, with CRLF line terminators
+files/var/hu9E6329_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huA02824_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huA07DA9_23andMe: ASCII text, with CRLF line terminators
+files/var/huA27736_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huA35014_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huA35FE6_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huA3A815_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huA4F281_23andMe: ASCII text, with CRLF line terminators
+files/var/huA55602_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huA5B645_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huA5D1FA_23andMe: ASCII text, with CRLF line terminators
+files/var/huA5FD8B_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huA62230_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huA6A0FC_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huA7A170_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huA81CF4_23andMe: gzip compressed data, was "genome_William_FitzHugh_Full_20101119140952.txt", from Unix, last modified: Fri Nov 19 15:10:33 2010
+files/var/huA90CE6_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huA939D6_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huA96EC4_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huAA16BD_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huAA245C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huAA53E0_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huAB651F_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huAC827A_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huAC8440_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huAD079E_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huAD225A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huAD719C_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huADF414_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huAE4A11_23andMe: ASCII text, with CRLF line terminators
+files/var/huAEADC0_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huAEC1B0_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huAF3C63_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huB1488D_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huB2C416_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huB2CFD0_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huB43E26_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huB4D223_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huB4E01A_23andMe: ASCII text, with CRLF line terminators
+files/var/huB4E868_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huB508F1_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huB59C05_23andMe: ASCII text, with CRLF line terminators
+files/var/huB5A0DF_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huB63C0C_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huB6B43E_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huB714CA_23andMe: ASCII text, with CRLF line terminators
+files/var/huB7EC37_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huB828CB_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huBAA265_23andMe: ASCII text, with CRLF line terminators
+files/var/huBAAC98_23andMe: ASCII text, with CRLF line terminators
+files/var/huBB3ECE_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huBB5257_23andMe: ASCII text, with very long lines, with CRLF line terminators
+files/var/huBB64EF_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huBBEB5D_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huBC03A7_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huBC4E20_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huBC964C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huBD640A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huBE28C7_23andMe: Zip archive data, at least v1.0 to extract Zip archive data, at least v1.0 to extract
+files/var/huBE835D_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huBE8E0C_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huBFEDCE_23andMe: ASCII text, with CRLF line terminators
+files/var/huC39675_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huC434ED_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huC48342_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huC4A276_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huC5824D_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huC7388D_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huC82AA9_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huC92BC9_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huC93106_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huCBB865_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huCCA261_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huCCAFD0_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huCCD063_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huCE80FB_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huCECD07_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huCF446F_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huCFD853_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huCFF045_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD00199_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD0449C_23andMe: ASCII text, with CRLF line terminators
+files/var/huD09534_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD0D79A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD103CC_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD10E53_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD10FBC_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD14602_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD2F73D_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD3D99C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD3E181_23andMe: ASCII text, with CRLF line terminators
+files/var/huD42C26_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD4F7DB_23andMe: ASCII text, with CRLF line terminators
+files/var/huD50D1C_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huD52556_23andMe: ASCII text, with CRLF line terminators
+files/var/huD53911_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD57BBF_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huD58ABC_23andMe: ASCII text, with CRLF line terminators
+files/var/huD5AAEC_23andMe: ASCII text, with CRLF line terminators
+files/var/huD5C574_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD6A89F_23andMe: ASCII text, with CRLF line terminators
+files/var/huD7960A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD83C6C_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huD85057_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huD86870_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huD889CC_23andMe: ASCII text, with CRLF line terminators
+files/var/huD96A97_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huDA2C2D_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huDB045C_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huDB1635_23andMe: ASCII text, with CRLF line terminators
+files/var/huDB9DBA_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huDBF9DD_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huDCF4FA_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huDD1522_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huDD2F3F_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huDD6BB0_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huDD6E7A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huDDE04F_23andMe: ASCII text, with CRLF line terminators
+files/var/huDDEC1D_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huDE4028_23andMe: ASCII text, with CRLF line terminators
+files/var/huDE4E2A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huDF04CC_23andMe: ASCII text, with CRLF line terminators
+files/var/huDF0DAF_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huDF6CBE_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huDFBF54_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huE0F0CE_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huE2CAA6_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huE2D0CA_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huE2EAB7_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huE308D1_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huE31062_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huE34B72_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huE35226_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huE43A48_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huE4CA90_23andMe: ASCII text, with CRLF line terminators
+files/var/huE4DAE4_23andMe: ASCII text, with CRLF line terminators
+files/var/huE58004_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huE77B10_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huE86317_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huE8E4FC_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huE9B080_23andMe: ASCII text, with CRLF line terminators
+files/var/huE9B698_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huE9E777_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huEAA57B_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huEAE6C8_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huEB7771_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huEBD467_23andMe: ASCII text, with CRLF line terminators
+files/var/huEC6EEC_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huED0F40_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huEDEA65_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huEDF7DA_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huEF066A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huEF956A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huF06AD0_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huF0B9DB_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huF1DC30_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huF28685_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huF297DD_23andMe: ASCII text, with CRLF line terminators
+files/var/huF2DA6F_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huF4A676_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huF5E454_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huF5F075_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huF64A5B_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huF6CDC1_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huF7E042_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huF974A8_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huF9E138_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huF9E172_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huFAA0CF_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huFAF983_23andMe: gzip compressed data, extra field
+files/var/huFC361A_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huFC9066_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huFD4AD3_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huFE1569_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huFE71F3_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huFE9B93_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huFEB4D6_23andMe: HTML document, ASCII text, with no line terminators
+files/var/huFF6AB4_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract
+files/var/huFFAD87_23andMe: Zip archive data, at least v2.0 to extract Zip archive data, at least v2.0 to extract

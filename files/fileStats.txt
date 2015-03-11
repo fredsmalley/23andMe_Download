@@ -1,0 +1,8 @@
+71: ASCII text
+281: HTML document
+1: ISO-8859 text
+1: Microsoft Word 2007+
+2: PDF document
+134: Zip archive data
+1: Zip archive data (empty)
+6: gzip compressed data

@@ -1,4 +1,4 @@
-215: ASCII text
+427: ASCII text
 1: Composite Document File V2 Document
 275: HTML document
 1: ISO-8859 text

@@ -6,7 +6,7 @@ int main(int argc, char** argv) {
 	RInside R(argc, argv);
 
 	// Make rsID map
-	map<string, Position> rsMap;
+	map<string, pair<Position, string>> rsMap;
 	string mapSaveFile = "../dbSNPMod/files/rsMap_sav.tsv";
 	if(!fillMap(rsMap, mapSaveFile)) {
 		cerr << "Unable to read in map from " << mapSaveFile << endl;
@@ -22,9 +22,26 @@ int main(int argc, char** argv) {
 
 	downloadFiles(websiteFileName, R);
 
-	findFileTypes();
+	string fileTypes = "files/fileTypes.txt";
+	string fileStats = "files/fileStats.txt";
 
-	writeFileStatistics("files/fileTypes.txt", "files/fileStats.txt");
+	findFileTypes(fileTypes);
+	writeFileStatistics(fileTypes, fileStats);
+
+//	addExtensions("files/fileTypes.txt");
+	downloadRedirects(fileTypes, R);
+	unzipGZipFiles();
+	unzipZipFiles(fileTypes);
+
+	fileTypes = "files/fileTypes2.txt";
+	fileStats = "files/fileStats2.txt";
+
+	findFileTypes(fileTypes);
+	writeFileStatistics(fileTypes, fileStats);
+
+	string b37Files = "files/GRCh37_list.txt";
+
+	findBuild37Files(fileTypes, b37Files);
 
 	return 0;
 }

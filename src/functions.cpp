@@ -1,11 +1,12 @@
 #include "functions.h"
 
-bool fillMap(map<string, Position>& rsMap, const string& fileName) {
+bool fillMap(map<string, pair<Position, string>>& rsMap, const string& fileName) {
 	bool filled = false;
 
 	fstream file;
 	string line;
 	string rsID;
+	string ref;
 	unsigned int begin;
 	unsigned int end;
 
@@ -19,7 +20,8 @@ bool fillMap(map<string, Position>& rsMap, const string& fileName) {
 				begin = stoi(line.substr(0, line.find(",")));	// save begin
 				line = line.substr(line.find(",") + 1);
 				end = stoi(line.substr(0, line.find(")")));	// save end
-				rsMap.insert(pair<string, Position>(rsID, Position(begin, end, false)));
+				ref = line.substr(line.find(")") + 1);		// save reference
+				rsMap.insert(pair<string, pair<Position, string>>(rsID, pair<Position, string>(Position(begin, end, false), ref)));
 			}
 
 			file.close();
@@ -32,7 +34,7 @@ bool fillMap(map<string, Position>& rsMap, const string& fileName) {
 	return filled;
 }
 
-void writeMap(const map<string, Position>& rsMap, const string& fileName) {
+void writeMap(const map<string, pair<Position, string>>& rsMap, const string& fileName) {
 	bool toScreen = false;
 	fstream outFile;
 	if (fileName.length() == 0)
@@ -45,12 +47,12 @@ void writeMap(const map<string, Position>& rsMap, const string& fileName) {
 		}
 	}
 
-	for (map<string, Position>::const_iterator itr = rsMap.begin();
+	for (map<string, pair<Position, string>>::const_iterator itr = rsMap.begin();
 			itr != rsMap.end(); itr++) {
 		if (toScreen)
-			cout << itr->first << ":\t(" << itr->second.getBegin() << "," << itr->second.getEnd() << ")" << endl;
+			cout << itr->first << ":\t(" << itr->second.first.getBegin() << "," << itr->second.first.getEnd() << ")" << itr->second.second << endl;
 		else
-			outFile << itr->first << ":\t(" << itr->second.getBegin() << "," << itr->second.getEnd() << ")" << endl;
+			outFile << itr->first << ":\t(" << itr->second.first.getBegin() << "," << itr->second.first.getEnd() << ")" << itr->second.second << endl;
 	}
 }
 
@@ -118,10 +120,24 @@ void downloadFiles(const string& webFileName, RInside& R) {
 }
 
 void findNewFiles(const string& webFileName, map<string, pair<string, string>>& newFiles) {
+	set<string> CGparts;
+	string line;
+	fstream CGpartFile;
+	CGpartFile.open("../GeneVar/files/CGparticipants.tsv");
+	if (CGpartFile.is_open()) {
+		getline(CGpartFile, line);	// skip title
+		while (getline(CGpartFile, line))
+			CGparts.insert(line);
+
+		CGpartFile.close();
+	} else {
+		cout << "Could not find Complete Genomics participants" << endl;
+		return;
+	}
+
 	fstream websiteFile;
 	websiteFile.open(webFileName, fstream::in);
 
-	string line;
 	string saveFileName;
 	string partID;
 
@@ -131,6 +147,10 @@ void findNewFiles(const string& webFileName, map<string, pair<string, string>>& 
 			if (line.find("/profile/") != line.npos) {			// if the line contains participant ID
 				partID = line.substr(line.find("profile") + 8);
 				partID = partID.substr(0, partID.find("\""));				// save participant ID
+				
+				if (CGparts.count(partID) != 0)					// skip if partID already available elsewhere
+					continue;
+
 				saveFileName = "files/var/" + partID + "_23andMe";			// save name to save file to
 				while(getline(websiteFile, line)) {					// continue looking through lines
 					if (line.find("auto\" data-summarize-as=\"list") != line.npos &&
@@ -167,8 +187,8 @@ void downloadNewFiles(const map<string, pair<string, string>>& newFiles, RInside
 	}
 }
 
-bool findFileTypes() {
-	string fileTypes = "files/fileTypes.txt";
+bool findFileTypes(const string& fileTypes) {
+	//string fileTypes = "files/fileTypes.txt";
 
 	if (getFileTypes(fileTypes) != 0)
 		return false;
@@ -298,4 +318,149 @@ void writeFileStatistics(const string& fileName, const string& output) {
 		outFile.close();
 
 	cout << "Done" << endl;
+}
+
+void downloadRedirects(const string& fileTypes, RInside& R) {
+	fstream fileTypeList;
+	fileTypeList.open(fileTypes);
+
+	string line;
+	string downloadPath;
+	string savePath;
+	fstream file;
+	if (fileTypeList.is_open()) {
+		while(getline(fileTypeList, line)) {
+			if (line.find("HTML") != line.npos) {
+				savePath = line.substr(0, line.find(":"));
+				file.open(savePath);
+				if (file.is_open()) {
+					getline(file, line);
+					if (line.find("a href") == line.npos)
+						cout << savePath << " is not a redirection!" << endl;
+					else {
+						line = line.substr(line.find("\"") + 1);
+						downloadPath = line.substr(0, line.find("\""));
+
+						// find extension
+						line = downloadPath;
+						while (line.find("/") != line.npos)
+							line = line.substr(line.find("/") + 1);
+						line = line.substr(line.find("."));
+						savePath += line;
+
+						if (!exists(savePath)) {
+							R["saveFileName"] = savePath;
+							R["downloadFileName"] = downloadPath;
+							cout << savePath << endl;
+							R.parseEvalQ("download.file(downloadFileName, saveFileName, method=\"curl\", extra=\"-g\")");
+						}
+					}
+					file.close();
+				} else {
+					cout << "Unable to open" << savePath << endl;
+				}
+			}
+		}
+		fileTypeList.close();
+	} else
+		cerr << "Unable to open " << fileTypes << endl;
+}
+
+void unzipGZipFiles() {
+	return;
+}
+
+void unzipZipFiles(const string& fileName) {
+	return;
+}
+
+void addExtensions(const string& fileName) {
+	int status;
+	pid_t pid;
+	string ext;
+
+	string line;
+	fstream file;
+	file.open(fileName);
+	if (file.is_open()) {
+		while (getline(file, line)) {
+			if (line.find("ASCII") != line.npos)
+				ext = ".txt";
+			else if (line.find("Zip") != line.npos)
+				ext = ".zip";
+			else if (line.find("gzip") != line.npos)
+				ext = ".gzip";
+			else
+				continue;
+
+			line = line.substr(0, line.find(":"));
+			ext = line + ext;
+
+			if (line.find(".") != line.npos)
+				continue;
+
+			pid = fork();
+
+			switch (pid) {
+			case -1:
+				cerr << "fork() failed.\n";
+				break;
+			case 0:
+				execl("/bin/cp", "cp", line.c_str(), ext.c_str(), NULL);
+				cerr << "execl() failed.\n";
+				break;
+			default:
+				status = 0;
+				waitpid(pid, &status, 0);
+				kill(pid, SIGSTOP);
+			}
+		}
+		file.close();
+	} else
+		cout << "Unable to open " << fileName << endl;
+}
+
+bool exists(const string& file) {
+	struct stat buffer;
+
+	if (stat(file.c_str(), &buffer) == 0)
+		return true;
+	else
+		return false;
+}
+
+void findBuild37Files(const string& fileList, const string& output) {
+	string line;
+	string fileName;
+	fstream list;
+	fstream out;
+	fstream file;
+	list.open(fileList, fstream::in);
+	out.open(output, fstream::out);
+	if (list.is_open() && out.is_open()) {
+		while(getline(list, line)) {
+			if (line.find("ASCII") != line.npos) {
+				fileName = line.substr(0, line.find(":"));
+				file.open(fileName);
+				if (file.is_open()) {
+					while(getline(file,line)) {
+						if (line[0] == '#') {
+							if (line.find("build 37") != line.npos) {
+								out << fileName << endl;
+								break;
+							}
+						} else
+							break;
+					}
+					file.close();
+				} else
+					continue;
+			}
+		}
+		out.close();
+		list.close();
+	} else {
+		cerr << "Unable to open either " << fileList
+			<< " or " << output << endl;
+	}
 }

@@ -27,15 +27,21 @@ using std::cerr;
 using std::fstream;
 using std::stoi;
 
-bool fillMap(map<string, Position>&, const string&);
+bool fillMap(map<string, pair<Position, string>>&, const string&);
 void writeMap(const map<string, Position>&, const string& fileName = "");
 int convertWebEncoding(string&);
 void downloadFiles(const string&, RInside&);
 void findNewFiles(const string&, map<string, pair<string, string>>&);
 void downloadNewFiles(const map<string, pair<string, string>>&, RInside&);
 bool downloadWebsite(const string&, string&, RInside& R);
-bool findFileTypes();
+bool findFileTypes(const string&);
 int getFileTypes(const string&);
 void writeFileStatistics(const string&, const string& saveFile = "");
+void addExtensions(const string&);
+void downloadRedirects(const string&, RInside& R);
+void unzipGZipFiles();
+void unzipZipFiles(const string&);
+bool exists(const string&);
+void findBuild37Files(const string&, const string&);
 
 #endif

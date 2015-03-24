@@ -35,3 +35,8 @@ VarDownload
 files/var/
 include/Position.h
 src/Position.cpp
+test
+test.cpp
+o
+files/fileStats2.txt
+files/fileTypes2.txt

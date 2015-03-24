@@ -389,8 +389,6 @@ void unzipZipFiles(const string& listFileName) {
 				zipFileName = line.substr (0, line.find(":"));
 				fileName = zipFileName.substr (0, zipFileName.find (".")) + ".txt";
 
-				cout << zipFileName << "\t" << fileName << endl;
-
 				if (exists(fileName))
 					continue;
 
@@ -427,7 +425,6 @@ void unzipZipFiles(const string& listFileName) {
 								line = line.substr (1);
 
 							command = "mv " + line + " " + fileName;
-							cout << command << endl;
 							system (command.c_str ());
 
 							break;
@@ -517,14 +514,17 @@ void findBuild37Files(const string& fileList, const string& output) {
 				fileName = line.substr(0, line.find(":"));
 				file.open(fileName);
 				if (file.is_open()) {
-					while(getline(file,line)) {
-						if (line[0] == '#') {
-							if (line.find("build 37") != line.npos) {
-								out << fileName << endl;
+					getline(file, line);
+					if (line.find("23andMe") != string::npos) {	// check if 23andMe file
+						while(getline(file,line)) {
+							if (line[0] == '#') {
+								if (line.find("build 37") != line.npos) {
+									out << fileName << endl;
+									break;
+								}
+							} else
 								break;
-							}
-						} else
-							break;
+						}
 					}
 					file.close();
 				} else

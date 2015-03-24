@@ -370,8 +370,82 @@ void unzipGZipFiles() {
 	return;
 }
 
-void unzipZipFiles(const string& fileName) {
-	return;
+void unzipZipFiles(const string& listFileName) {
+	string zipFileName;
+	string fileName;
+	string tempFileName = "temp.txt";
+	string command;
+	int fd;
+	pid_t pid;
+
+	string line;
+	fstream listFile;
+	fstream tempFile;
+	listFile.open (listFileName, fstream::in);
+	if (listFile.is_open()) {
+		while (getline (listFile, line)) {
+			if (line.find ("Zip archive") != string::npos &&
+					line.find ("empty") == string::npos) {
+				zipFileName = line.substr (0, line.find(":"));
+				fileName = zipFileName.substr (0, zipFileName.find (".")) + ".txt";
+
+				cout << zipFileName << "\t" << fileName << endl;
+
+				if (exists(fileName))
+					continue;
+
+				pid = fork();
+				switch (pid) {
+				case -1:
+					cout << "fork() failed!" << endl;
+					return;
+				case 0:
+					fd = open (tempFileName.c_str (),
+						O_WRONLY | O_CREAT | O_TRUNC,
+						S_IRUSR | S_IWUSR);
+					dup2 (fd, 1);
+
+					execl ("/usr/bin/unzip", "unzip", zipFileName.c_str (), NULL);
+					cout << "execl() failed!" << endl;
+					return;
+				default:
+					cout << "Unzipping " << zipFileName << endl;
+
+					int status = 0;
+					waitpid (pid, &status, 0);
+					kill (pid, SIGSTOP);
+
+					cout << "Done" << endl;
+				}
+
+				tempFile.open (tempFileName.c_str (), fstream::in);
+				if (tempFile.is_open ()) {
+					while (getline (tempFile, line)) {
+						if (line.find ("inflating") != string::npos) {
+							line = line.substr (line.find(":") + 1);
+							while (isspace (line[0]))
+								line = line.substr (1);
+
+							command = "mv " + line + " " + fileName;
+							cout << command << endl;
+							system (command.c_str ());
+
+							break;
+						}
+					}
+
+					tempFile.close();
+				} else
+					cout << "Unable to open " << tempFileName << endl;
+
+				command = "rm " + tempFileName;
+				system (command.c_str ());
+			}
+		}
+
+		listFile.close();
+	} else
+		cout << "Unable to open " << fileName << endl;
 }
 
 void addExtensions(const string& fileName) {

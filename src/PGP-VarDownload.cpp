@@ -18,9 +18,9 @@ int main(int argc, char** argv) {
 	string websiteFileName = "files/PGP_Public_Genetic_Data.html";
 	string websiteName = "https://my.pgp-hms.org/public_genetic_data";
 
-	downloadWebsite(websiteName, websiteFileName, R);
+//	downloadWebsite(websiteName, websiteFileName, R);
 
-	downloadFiles(websiteFileName, R);
+//	downloadFiles(websiteFileName, R);
 
 	string fileTypes = "files/fileTypes.txt";
 	string fileStats = "files/fileStats.txt";
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	writeFileStatistics(fileTypes, fileStats);
 
 //	addExtensions("files/fileTypes.txt");
-	downloadRedirects(fileTypes, R);
+//	downloadRedirects(fileTypes, R);
 	unzipGZipFiles();
 	unzipZipFiles(fileTypes);
 
